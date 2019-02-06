@@ -13,4 +13,6 @@ while i <= 30:
     webbrowser.open_new_tab("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
     i += 1
     print("Congrats, you played yourself")
+while i <= 40:
     messagebox.showinfo("Congrats", "You played yourself")
+    i +=1
