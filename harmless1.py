@@ -15,4 +15,4 @@ while i <= 50:
     print("Congrats, you played yourself")
 while i <= 70:
     messagebox.showinfo("Congrats", "You played yourself")
-    i +=1
+    i += 1
